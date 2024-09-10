@@ -1,6 +1,5 @@
 # Image-Compression-Using-Quadtrees
 
-## سینا بهرامی `9900442201`
 
 # عملکرد برنامه فشرده‌سازی تصویر با استفاده از Quadtrees
 
